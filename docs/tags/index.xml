@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Digital Clouds</title>
+    <link>https://digital.w-ss.io/tags/</link>
+    <description>Recent content in Tags on Digital Clouds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>WiseHUb MG | Digital Clouds - All rights reserve 2020</copyright>
+    <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://digital.w-ss.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>content</title>
+      <link>https://digital.w-ss.io/tags/content/</link>
+      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
+      
+      <guid>https://digital.w-ss.io/tags/content/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

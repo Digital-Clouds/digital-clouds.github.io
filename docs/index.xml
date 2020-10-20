@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Clouds</title>
+    <link>https://digital.w-ss.io/</link>
+    <description>Recent content on Digital Clouds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>WiseHUb MG | Digital Clouds - All rights reserve 2020</copyright>
+    <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
+    
+	<atom:link href="https://digital.w-ss.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preparing workspace for public view</title>
+      <link>https://digital.w-ss.io/post/2014/07/11/content/</link>
+      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
+      
+      <guid>https://digital.w-ss.io/post/2014/07/11/content/</guid>
+      <description> Presentation works Automation support Projects preparation Add publishing cotent  </description>
+    </item>
+    
+  </channel>
+</rss>
